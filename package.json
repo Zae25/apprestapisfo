@@ -1,0 +1,24 @@
+{
+  "name": "apprestapisfo",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zae25/apprestapisfo.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "zaelani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zae25/apprestapisfo/issues"
+  },
+  "homepage": "https://github.com/Zae25/apprestapisfo#readme"
+}
